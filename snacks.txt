@@ -1,0 +1,20 @@
+F/8547328@Popcorn@cold@80
+F/2145786@Nachos@hot@200
+F/3212521@Fresh Pretzel@hot@180
+F/1224873@Roasted Nuts@cold@120
+F/1583219@Ham Sandwich@cold@250
+F/8648941@Cheese Sandwich@cold@250
+F/2144777@Hot dog@hot@280
+F/3584641@Sausage Roll@hot@200
+F/7135631@Spicy Wedges@hot@300
+F/6439471@Caeser Salad@cold@300
+D/8244354@Cola@high@120
+D/7154984@Reduced Sugar Cola@low@120
+D/9634965@Diet Cola@none@120
+D/2381235@Lemonade@high@100
+D/2337652@Splanta@high@120
+D/4151893@Diet Splanta@none@120
+D/4513846@Diet Lemonade@none@100
+D/1184321@Sparkling Water@none@80
+D/4981841@Still Water@none@80
+D/1122128@Super Juice@high@400
